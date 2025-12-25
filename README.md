@@ -6,7 +6,7 @@
 **Tech Stack:** Google BigQuery (SQL), Python.
 
 ![Dashboard Summary](dashboard_summary.png)
-*(Top: Revenue Strategy | Bottom: Actionable High-Value Targets)*
+*(Left: Revenue Strategy | Right: Actionable High-Value Targets)*
 
 ---
 
